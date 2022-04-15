@@ -1,0 +1,42 @@
+.bold {
+    font-weight: bold
+}
+
+.center {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 30pt
+        
+}
+
+.labels {
+    color: white;
+    text-decoration: underline
+}
+
+.textsizing {
+    font-size: 14pt;
+    text-align: center
+}
+
+.midtextedit {
+    text-align: left
+}
+
+.photoborder {
+    border-color: black;
+    border-width: 2px;
+    border-style: solid
+        
+}
+
+.swagbackground {
+    background-color: floralwhite
+}
+
+.sublabel {
+    color: white;
+    pointer-events: none
+}
+

@@ -1,0 +1,39 @@
+
+
+.adjust {
+    width: 100%;
+    height: 100%;
+    background-color: azure
+}
+
+.top {
+    position: absolute; top: 5px; left: 5px; right: 5px; height: 80px; z-index: 2; border-bottom: solid 2px
+}
+
+.title {
+    color: black;
+    font-weight: bold;
+    font-size: xx-large;
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 15px
+        
+}
+
+.quad1 {
+    height: 30;
+    width: 40;
+    padding-top: 30;
+    padding-bottom: 150;
+    padding-left: 5;
+    padding-right: 75;
+
+}
+
+.foot {
+    border-top: solid 2px; position: fixed; bottom: 5px; height: 15px; left: 5px; right: 5px; font-size: 14px; color: gray; text-align: center
+}
+
+.typefont {
+    font-style: italic
+}
